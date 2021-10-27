@@ -1,5 +1,3 @@
-# Victor Mendes de Almeida
-
 <img src="https://cdn.hackernoon.com/images/f2px36fy.gif">
 
 <div>
