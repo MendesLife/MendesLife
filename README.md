@@ -2,8 +2,8 @@
 
 <div >
  <img width="850em" src="https://cdn.hackernoon.com/images/f2px36fy.gif">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendeslife&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendeslife&layout=compact&theme=dark">
+<img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=mendeslife&show_icons=true&theme=dark">
+<img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendeslife&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
