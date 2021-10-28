@@ -17,6 +17,20 @@
 
 ##
 
+✌️Victor Mendes de Almeida
+
+🏠Santos-SP, Brasil
+
+😊24 Anos
+
+📖Faculdade Impacta de Tecnologia
+
+👔Freelancer
+
+📗Português, Inglês, Espanhol
+
+##
+
 <div> 
     <a href="https://instagram.com/victormendes08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mend1tos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
