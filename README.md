@@ -23,7 +23,7 @@
 
 😊24 Anos
 
-📖Faculdade Impacta de Tecnologia
+📖Análise e Desenvolvimento de Sistemas Faculdade Impacta de Tecnologia
 
 👔Freelancer
 
